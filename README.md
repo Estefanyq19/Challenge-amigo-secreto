@@ -2,11 +2,11 @@
 
 ## Descripción
 
-Este proyecto es una aplicación web interactiva para jugar al **Amigo Secreto**. Los usuarios pueden agregar nombres de amigos a una lista y luego realizar un sorteo aleatorio para asignar a cada persona un "amigo secreto". La aplicación también permite reiniciar el sorteo y ver los resultados.
+Este proyecto es un challengue para jugar al **Amigo Secreto**. Los usuarios pueden agregar nombres de amigos a una lista y luego realizar un sorteo aleatorio para asignar a cada persona un "amigo secreto". La aplicación también permite reiniciar el sorteo.
 
 ### Funciones principales:
 
-- **Agregar amigos**: Los usuarios pueden ingresar nombres y añadirlos a la lista de amigos.
+- **Agregar amigos**: Los usuarios pueden ingresar nombres.
 - **Sorteo aleatorio**: Elige un amigo aleatoriamente de la lista y lo muestra como el "amigo secreto".
 - **Reinicio**: Permite reiniciar el sorteo y borrar la lista de amigos y resultados.
 
@@ -23,21 +23,6 @@ Este proyecto es una aplicación web interactiva para jugar al **Amigo Secreto**
 3. Ingresa los nombres de tus amigos y haz clic en el botón "Añadir".
 4. Una vez que hayas agregado todos los amigos, haz clic en "Sortear amigo" para ver quién es tu amigo secreto.
 5. Si deseas reiniciar el sorteo, haz clic en "Reiniciar Sorteo".
-
-## Instalación
-
-No es necesario ningún entorno de desarrollo especial. Solo necesitas un navegador web para ejecutar el archivo `index.html`.
-
-1. Clona el repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/challenge-amigo-secreto.git
-2. Navega hasta la carpeta del proyecto:
-
-   ```bash
-   cd challenge-amigo-secreto
-
-Abre el archivo index.html en tu navegador.
 
 ### Vista previa de la aplicación:
 
